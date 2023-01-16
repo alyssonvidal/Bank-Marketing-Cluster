@@ -5,7 +5,7 @@ Uma das dificuldades nos processos seletivos são as situações em que o o cand
 
 Este projeto étem como objetivo simular o processo seletivo / inserção de um cientista de dados jr em um grande Banco Nacional. Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: detecção de fraude, segmentação de clientes, previsão de Inadinplencia, predição de Churn, analises em tempo real, automação de processos de comunicação. Para isso, o Banco forneceu algumas opções de datasets para escolha do candidado ( referentes as principais areas de atuação do Cientista de Dados como as citadas anteriormente) a partir dessa escolha o candidato apresentar um projeto num prazo de sete dias exibindo de acordo com os objetivos propostos a baixo.
 
-<i>**Nota:** A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma persepção MINHA, não necessáriamente significa que os processos seletivos atuais seguem esse molde nem que o prazo de sete dias seja fáctivel para os objetivos solicitados.</i>
+<i>**Nota:** A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma persepção MINHA, não necessáriamente significa que os processos seletivos atuais seguem esse molde</i>
 
 
 ## Objetivo
@@ -16,19 +16,20 @@ Este projeto étem como objetivo simular o processo seletivo / inserção de um 
     -  Criação do modelo de Machine Learning 
     -  Conclusão<br><br>
 
-<i>**Nota:** O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em machine learning.</i>
+<i>**Nota:** O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i>
 
 
 **Secundário:**
 * Justificar os motivos para a escolha do estudo de caso.
 * Descrever o principio de funcionamento do algoritimo utilizado e as métricas utilizadas para a escolha.
 * Apresentar a viabilidade do projeto, considerando que hipoteticamente a empresa possua poucas ou nenhuma solução na área de atuação escolhida.
-* Apresentar um possivel plano de ação da empresa com base os resultados do estudo.
+* Apresentar um possivel plano de ação da empresa com base os resultados do estudo.<br><br>
 
-## Study Case - Credit Card Users
-**Cluster Segmentation** - A segmentação de clientes é uma técnica de ciência de dados que envolve a análise de dados de clientes para dividi-los em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades potenciais de marketing, desenvolvimento de produtos e atendimento ao cliente. Ao entender as características únicas de cada segmento, as empresas podem direcionar melhor seus produtos e serviços para atender às necessidades de clientes individuais.
+## Study Case<br><br>
 
-**Base de Dados** - A base de dados contém os dados referentes ao uso do cartão de crédito dos clientes de uma determinada agencia coletados num determinado mês. a base de dados também está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) 
+**Credit card users, Cluster Segmentation** - A segmentação de clientes é uma técnica de ciência de dados que envolve a análise de dados de clientes para dividi-los em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades potenciais de marketing, desenvolvimento de produtos e atendimento ao cliente. Ao entender as características únicas de cada segmento, as empresas podem direcionar melhor seus produtos e serviços para atender às necessidades de clientes individuais.
+
+**Base de Dados** - A base de dados contém os dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num determinado mês. a base de dados também está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) 
 
 
 ## Development Stages
@@ -47,6 +48,7 @@ Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redu
 
 ## Relatórios
 [**Estudo de Viabilidade do Projeto**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/viability_md)<br>
+[**Q & A, ChatGPT - Operações com o cartão de crédito**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/qa_md)<br>
 
 
 ## Ferramentas
