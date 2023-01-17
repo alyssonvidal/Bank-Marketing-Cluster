@@ -7,7 +7,7 @@ Este projeto tem como objetivo simular o processo seletivo / inserção de um ci
 
 Para isso, o Banco forneceu algumas opções de datasets para candidado escolher( referentes as principais áreas de atuação do Cientista de Dados como as citadas anteriormente), a partir dessa escolha o candidato deverá apresentar um projeto num prazo máximo de sete dias exibindo de acordo com os objetivos propostos a baixo.
 
-<i>**Nota:** A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma percepção MINHA, não necessáriamente significa que os processos seletivos atuais seguem esse molde</i><br><br>
+<i>**Nota:** A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma percepção minha, não necessáriamente significa que os processos seletivos atuais seguem esse molde.</i><br><br>
 
 
 ## Objetivo
