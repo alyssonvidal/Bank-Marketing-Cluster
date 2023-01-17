@@ -32,16 +32,6 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 
 $$s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
 
-onde:
-
-$a(i) = \frac{1}{|C_i| - 1} \sum_{j \in C_i, j \neq i} d(i, j)$ <br>
-
-$b(i) = \min_{k \in C, k \neq C_i} \left\{\frac{1}{|C_k|} \sum_{j \in C_k} d(i, j)\right\}$ <br>
-
-$C_i$ is the set of data points in cluster $i$ <br>
-
-$d(i, j)$ is the distance between data points $i$ and $j$ <br>
-
 <br>
 
 *** 
