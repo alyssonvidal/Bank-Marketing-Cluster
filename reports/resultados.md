@@ -18,7 +18,7 @@ Considerando a segunda parte do projeto, "viabilidade", os projetos de Costumer 
 
 ## Explique o principio de funcionamento do algortimo escolhido
 
-O Modelo de Mistura Gaussiana (GMM) é um modelo de agrupamento probabilístico que assume que cada ponto de dados é gerado por uma mistura de um número finito de distribuições Gaussianas com parâmetros desconhecidos. Os GMMs são comumente usados ​​para aplicações de cluster, pois podem modelar clusters que não são necessariamente redondos ou elípticos, dessa forma ele pode ser considerado uma extrapolação de outro modelo conhecido, o KMeans.
+O **Modelo de Mistura Gaussiana (GMM)** é um modelo de agrupamento probabilístico que assume que cada ponto de dados é gerado por uma mistura de um número finito de distribuições Gaussianas com parâmetros desconhecidos. Esses parâmetros incluem os limites de cada distribuição Gaussiana, bem como os pesos que determinam a proporção de cada distribuição na mistura. Os GMMs são comumente usados ​​para aplicações de cluster, pois podem modelar clusters que não são necessariamente redondos ou elípticos, dessa forma ele pode ser considerado uma extrapolação de outro modelo conhecido, o KMeans.
 
 <br>
 
@@ -29,8 +29,6 @@ O Modelo de Mistura Gaussiana (GMM) é um modelo de agrupamento probabilístico 
 ## Explique o principio de funcionamento de pelo menos uma das métricas escolhidas
 
 O **Silhouette Score** é uma métrica usada para medir o quão próximo cada ponto em um cluster está dos pontos em outros clusters. Pode variar de -1 (indicando que o ponto está muito distante de outros clusters) a 1 (indicando que o ponto está muito próximo de outros clusters). É calculado tomando a média do coeficiente de silhueta para cada ponto.
-
-$$s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
 
 <br>
 
@@ -60,8 +58,8 @@ $$s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
 
 **Cluster 00 - Cannot Lose Them** 
 - São clientes que <mark>utilizam o cartão de crédito com baixa frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>alta frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>baixissima frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>baixissima frequencia</mark> 
 - São clientes que possuem <mark>moderada taxa de pagamento</mark>  com relação ao valor integral do cartão de crédito
 
@@ -71,8 +69,8 @@ $$s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
 
 **Cluster 01 - Hinernating** 
 - São clientes que <mark>utilizam o cartão de crédito com baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>baixissima frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>alta frequencia</mark>
 - São clientes que possuem <mark>baixa taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 
@@ -82,8 +80,8 @@ Rating: 1.0
 
 **Cluster 02 - Champions** 
 - São clientes que <mark>utilizam o cartão de crédito com alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>altissima frequencia</mark> 
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>altissima frequencia</mark> 
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>baixissima frequencia</mark>
 - São clientes que possuem <mark>alta taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 
@@ -93,8 +91,8 @@ Rating: 5.0
 
 **Cluster 03 - Trouble Costumer** 
 - São clientes que <mark>utilizam o cartão de crédito com baixa frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>moderada frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>moderada frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>baixissima frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>alta frequencia</mark>
 - São clientes que possuem <mark>baixa taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 
@@ -104,8 +102,8 @@ Rating: 2.5
 
 **Cluster 04 - Loyal Customers** 
 - São clientes que <mark>utilizam o cartão de crédito com altissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>moderada frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>alta frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>moderada frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>baixissima frequencia</mark>
 - São clientes que possuem <mark>alta taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 
@@ -115,8 +113,8 @@ Rating: 4.5
 
 **Cluster 05 - Need Attention** 
 - São clientes que <mark>utilizam o cartão de crédito com moderada frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>alta frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>baixissima frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>alta frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>alta frequencia</mark>
 - São clientes que possuem <mark>baixa taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 
@@ -126,8 +124,8 @@ Rating: 3.0
 
 **Cluster 06**
 - São clientes que <mark>utilizam o cartão de crédito com altissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"ONE OFF"</mark> com <mark>alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>"Parcelado"</mark> com <mark>moderada frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"a vista"</mark> com <mark>alta frequencia</mark>
+- São clientes que utilizam a modalidade <mark>"parcelado"</mark> com <mark>moderada frequencia</mark>
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>alta frequencia</mark>
 - São clientes que possuem <mark>baixa taxa de pagamento</mark> com relação ao valor integral do cartão de crédito
 

@@ -4,9 +4,9 @@
 
 A utilização da inteligencia artificial é cada vez mais comum e cada vez mais surgem novas técnologias que nos proporcionam facilidades nos mais diversos aspectos e a "bola da vez" é o chatGPT. 
 
-Para ajudar entender um pouco sobre alguns conceitos basicos de operações com o cartão de crédito iremos utiliza-la. Alguns dos motivos são a praticidade e dinânica da ferramenta que possuí interações rápidas e simples e a objetividade das respostas que são suficientes para o nosso proposito e são um ponto de partida desse projeto para uma pessoa leiga e o desafio do projeto já que o tempo para conclusão é curta e a solução da IA acaba servindo mais como material de apoio para consulta.
+Para ajudar entender um pouco sobre alguns conceitos basicos de operações com o cartão de crédito iremos utiliza-la. Alguns dos motivos são a praticidade e dinânica da ferramenta que possuí interações rápidas e simples; a objetividade das respostas que são suficientes para o nosso proposito; e o tempo para conclusão do projeto que é curto.
 
-<i>**Nota:** A utilização do chatGPT não substuí uma analise mais aprofundada e diversificada sobre o tema, nem que as perguntas e respostas fornecidas por ele vão ser suficientes para uma entrevista de emprego ou no dia dia de trabalho de um cientista de dados. No nosso caso a ferramenta é apenas um material de apoio.</i>
+<i>**Nota:** A utilização do chatGPT não substuí uma analise mais aprofundada e diversificada sobre o tema, nem que as perguntas e respostas fornecidas por ele vão ser suficientes para uma entrevista de emprego ou no dia dia de trabalho de um cientista de dados. No nosso caso a ferramenta é apenas um material de apoio para cunsultas rapidas.</i>
 
 **Quais as vantagens, para o Banco, de parcelar as compras no cartão de crédito?**
 
@@ -75,7 +75,7 @@ O melhor perfil de cliente para um banco é aquele que demonstra responsabilidad
 
 As principais métricas para o banco para controle de cartão de crédito são: número de clientes ativos, taxa de juros, número de transações, número de compras, percentual de inadimplência, número de cartões de crédito emitidos, taxa de churn (abandono de clientes), retenção de clientes, taxa de aceitação de novos pedidos e taxa de uso.
 
-**Qual a taxa de juros do cartão de crédito?**
+**Qual a taxa de juros do cartão do crédito?**
 
 A taxa de juros de um cartão de crédito varia de acordo com o banco e a modalidade de cartão oferecida. Em geral, as taxas de juros dos cartões de crédito são mais altas do que as taxas de juros dos empréstimos bancários, pois os cartões de crédito têm um risco maior para os bancos.
 
@@ -91,3 +91,20 @@ A taxa de juros de um cartão de crédito varia de acordo com o banco e a modali
 4. Redução de custos: Monitorar os gastos e identificar áreas de desperdício para reduzir os custos operacionais.
 
 5. Otimização da experiência do usuário: Identificar gargalos e pontos de melhoria na experiência de usuário para aumentar a satisfação dos clientes.
+
+**O que acontece se a compra estrapolar a quantidade em débito? Ela é descontada em crédito?**
+
+Se a compra estrapolar a quantidade em débito, o comprador pode ser cobrado uma taxa de sobrecarga que é normalmente definida pelo banco emissor da conta. Além disso, a compra pode ser recusada se o comprador exceder a quantidade de débito autorizada. Se a compra for aceita, ela será descontada em crédito, pois o débito não pode ser usado para cobrir o saldo da compra.
+
+**O que é cheque especial?**
+
+Cheque Especial é um empréstimo concedido pelo banco ao cliente titular de uma conta corrente, que possibilita o acesso a um crédito que ultrapassa o limite de saldo da conta. Por meio do cheque especial, o cliente pode usar recursos adicionais, desde que seja atendido aos critérios de concessão de crédito previamente estabelecidos pelo banco. Esse crédito tem juros mais elevados do que outras modalidades de empréstimo e possui prazos mais curtos para pagamento.
+
+**Taxa de sobrecarga e cheque especial são mesma coisa?**
+
+Não. Taxa de sobrecarga é um custo cobrado por usar o recurso de cheque especial. O cheque especial é um serviço oferecido pelos bancos que permite ao cliente sacar dinheiro do banco mesmo quando não há saldo na conta. O cliente paga juros sobre o valor sacado e uma taxa de sobrecarga é cobrada para usar o serviço. 
+A taxa de sobrecarga do cheque especial é geralmente mais alta do que a taxa de juros do cheque especial. A taxa de sobrecarga é cobrada quando a conta fica com saldo negativo, enquanto a taxa de juros é cobrada quando o dinheiro é usado no cheque especial.
+
+**Como é calculado o pagamento mínimo do cartão de crédito?
+
+O pagamento mínimo do cartão de crédito é calculado com base no saldo da fatura e seu limite de crédito. É geralmente definido como uma porcentagem do saldo, geralmente entre 2% e 5%. O pagamento mínimo também pode incluir juros, taxas de serviço e outras cobranças relacionadas ao uso do cartão. Normalmente, o pagamento mínimo não é suficiente para pagar a fatura inteira, portanto, é importante que o usuário faça pagamentos adicionais para reduzir seu saldo e evitar o acúmulo de juros.
