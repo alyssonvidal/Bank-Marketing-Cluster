@@ -47,8 +47,8 @@ Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redu
 
 
 ## Relatórios
-[**Apresentação do Projeto**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/viability_md)<br>
-[**Q & A - Operações com o Cartão de Crédito**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/qa_md)<br><br>
+[**Apresentação**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+[**Q & A - Operações com o Cartão de Crédito**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/qa.md)<br><br>
 
 
 ## Ferramentas
