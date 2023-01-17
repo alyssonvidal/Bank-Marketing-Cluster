@@ -34,13 +34,13 @@ $$s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
 
 onde:
 
-$a(i) = \frac{1}{|C_i| - 1} \sum_{j \in C_i, j \neq i} d(i, j)$
+$a(i) = \frac{1}{|C_i| - 1} \sum_{j \in C_i, j \neq i} d(i, j)$ <br>
 
-$b(i) = \min_{k \in C, k \neq C_i} \left\{\frac{1}{|C_k|} \sum_{j \in C_k} d(i, j)\right\}$
+$b(i) = \min_{k \in C, k \neq C_i} \left\{\frac{1}{|C_k|} \sum_{j \in C_k} d(i, j)\right\}$ <br>
 
-$C_i$ is the set of data points in cluster $i$
+$C_i$ is the set of data points in cluster $i$ <br>
 
-$d(i, j)$ is the distance between data points $i$ and $j$
+$d(i, j)$ is the distance between data points $i$ and $j$ <br>
 
 <br>
 
@@ -55,8 +55,16 @@ $d(i, j)$ is the distance between data points $i$ and $j$
 **Numero ótimo de Clusters:** 7<br>
 **Numero de Clusters escolhido:** 7<br>
 **Silhouette Score:** 0.725387<br>
-**Davies Bouldin Score:** 0.725387<br>
+**Davies Bouldin Score:** 0.344484<br>
 **AIC / BIC Score:** 90942 / 91233 <br>
+
+<br>
+
+*** 
+
+<br>
+
+## Resultado dos Clusters
 
 <blockquote style="color: #000000;">
 

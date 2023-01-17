@@ -37,7 +37,7 @@ Para isso, o Banco forneceu algumas opções de datasets para candidado escolher
 Lidando com valores ausentes com o KNN Imputer...
 
 [**Analise Exploratória dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
-Estatistica Descritiva, Analise Univariada, Analise Multivariada.
+Analise Univariada, Analise Multivariada.
 
 [**Preparação dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
 Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redução de Dimensionalidade (PCA, UMAP, t-SNE).
