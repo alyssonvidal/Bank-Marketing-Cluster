@@ -1,7 +1,8 @@
 # Q & A  ChatGPT - Credit Card Operation
 
-A utilização da inteligencia artificial no dia dia é cada vez mais comum e cada vez mais surgem novas técnologias que nos proporcionam facilidades nos mais diversos aspectos e a "bola da vez" é o chatGPT<. Para ajudar entender um pouco sobre alguns conceitos basicos de operações com o cartão de crédito iremos utiliza-la. Alguns dos motivos são a praticidade e dinânica da ferramenta que possuí interações rápidas e simples e a objetividade das respostas que são suficientes para o nosso proposito e são um ponto de partida desse projeto para uma pessoa leiga e o desafio do projeto já que o tempo para conclusão é curta e a solução da IA acaba servindo mais como material de apoio.
+A utilização da inteligencia artificial no dia dia é cada vez mais comum e cada vez mais surgem novas técnologias que nos proporcionam facilidades nos mais diversos aspectos e a "bola da vez" é o chatGPT. Para ajudar entender um pouco sobre alguns conceitos basicos de operações com o cartão de crédito iremos utiliza-la. Alguns dos motivos são a praticidade e dinânica da ferramenta que possuí interações rápidas e simples e a objetividade das respostas que são suficientes para o nosso proposito e são um ponto de partida desse projeto para uma pessoa leiga e o desafio do projeto já que o tempo para conclusão é curta e a solução da IA acaba servindo mais como material de apoio para consulta.
 
+<i>**Nota:** A utilização do chatGPT não substuí uma analise mais aprofundada e diversificada sobre o tema, nem que as perguntas e respostas fornecidas por ele vão ser suficientes para uma entrevista de emprego ou no dia dia de trabalho de um cientista de dados. No nosso caso a ferramenta é apenas um material de apoio.</i>
 
 **Quais as vantagens, para o Banco, de parcelar as compras no cartão de crédito?**
 
@@ -51,3 +52,38 @@ O pagamento estimado em relação ao valor total do cartão de crédito normalme
 **Quais tipos de cartão de crédito que existem?**
 
 Existem diversos tipos de cartões de crédito, entre eles os cartões de loja, cartões pré-pagos, cartões de crédito pré-pagos, cartões de crédito tradicionais, cartões de crédito premium, cartões de crédito de viagem, cartões de crédito de recompensas, cartões de crédito de descontos, cartões de crédito de empréstimo, cartões de crédito de empresas, cartões de crédito universitários, cartões de crédito garantidos e cartões de crédito virtual.
+
+**Quais as formas de se conseguir um emprestimo no banco?**
+
+1. Solicitar um empréstimo diretamente ao banco: os bancos oferecem diversos tipos de empréstimos para atender às necessidades de seus clientes. Por exemplo, os bancos podem oferecer empréstimos pessoais, hipotecários, comerciais, entre outros.
+
+2. Utilizar um serviço de empréstimo online: existem muitos serviços de empréstimo online, tais como aplicativos de empréstimo ou plataformas de empréstimo peer-to-peer, que permitem que você solicite empréstimos diretamente de outras pessoas ou empresas.
+
+3. Utilizar um serviço de empréstimo pessoal: existem muitos serviços de empréstimo pessoal, como plataformas de empréstimo peer-to-peer e aplicativos de empréstimo, que permitem que você solicite empréstimos de outras pessoas ou empresas.
+
+4. Utilizar um cartão de crédito: os cartões de crédito são uma forma conveniente de obter dinheiro emprestado. Os cartões de crédito podem oferecer taxas de juros mais baixas do que outras formas de empréstimo, mas também carregam o risco de endividamento a longo praz
+
+**Qual o melhor perfil de cliente para um banco?**
+
+O melhor perfil de cliente para um banco é aquele que demonstra responsabilidade financeira, possui uma boa história de crédito, possui um fluxo de renda estável e consistente, e apresenta uma boa relação entre renda e dívidas.
+
+**Quais as principais métricas para o banco para controle de cartão de crédito?**
+
+As principais métricas para o banco para controle de cartão de crédito são: número de clientes ativos, taxa de juros, número de transações, número de compras, percentual de inadimplência, número de cartões de crédito emitidos, taxa de churn (abandono de clientes), retenção de clientes, taxa de aceitação de novos pedidos e taxa de uso.
+
+**Qual a taxa de juros do cartão de crédito?**
+
+A taxa de juros de um cartão de crédito varia de acordo com o banco e a modalidade de cartão oferecida. Em geral, as taxas de juros dos cartões de crédito são mais altas do que as taxas de juros dos empréstimos bancários, pois os cartões de crédito têm um risco maior para os bancos.
+
+
+**Quais os principais insights que podemos gerar em aplicações bancárias?**
+
+1. Análise de dados do cliente: Conhecer melhor seus clientes, seus hábitos de gastos, seus perfis de risco e comportamento financeiro.
+
+2. Descoberta de novos mercados: A partir dos dados dos clientes, é possível descobrir novos mercados para alavancar as vendas.
+
+3. Previsão de mercado: Estudar a tendência dos mercados para obter uma noção mais aprofundada sobre o comportamento dos preços e tendências de mercado.
+
+4. Redução de custos: Monitorar os gastos e identificar áreas de desperdício para reduzir os custos operacionais.
+
+5. Otimização da experiência do usuário: Identificar gargalos e pontos de melhoria na experiência de usuário para aumentar a satisfação dos clientes.

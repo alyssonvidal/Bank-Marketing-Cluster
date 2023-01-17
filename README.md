@@ -47,7 +47,7 @@ Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redu
 * **Metricas:** WCSS, Silhouette Score, Davies Bouldin, AIC, BIC<br>
 
 ## Relatórios
-[**Estudo de Viabilidade do Projeto**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/viability_md)<br>
+[**Apresentação do Projeto**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/viability_md)<br>
 [**Q & A, ChatGPT - Operações com o cartão de crédito**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/qa_md)<br>
 
 
