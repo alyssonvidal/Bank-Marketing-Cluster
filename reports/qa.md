@@ -1,4 +1,4 @@
-# Q & A  ChatGPT - Credit Card Operation
+# Q & A - Credit Card Operation
 
 A utilização da inteligencia artificial no dia dia é cada vez mais comum e cada vez mais surgem novas técnologias que nos proporcionam facilidades nos mais diversos aspectos e a "bola da vez" é o chatGPT. Para ajudar entender um pouco sobre alguns conceitos basicos de operações com o cartão de crédito iremos utiliza-la. Alguns dos motivos são a praticidade e dinânica da ferramenta que possuí interações rápidas e simples e a objetividade das respostas que são suficientes para o nosso proposito e são um ponto de partida desse projeto para uma pessoa leiga e o desafio do projeto já que o tempo para conclusão é curta e a solução da IA acaba servindo mais como material de apoio para consulta.
 
