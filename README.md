@@ -56,6 +56,3 @@ Linguagens: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Bibliotecas: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Metodologia: CRISP-DM<br>
-
-*** 
-
