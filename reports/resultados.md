@@ -39,12 +39,17 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 ## Performace do Modelo
 
 **Modelo Escolhido:** GMM<br>
-**Parametros:**
+**Parametros:** sklearn.mixture.GaussianMixture(n_components=7, *, covariance_type='full', tol=0.001, reg_covar=1e-06, max_iter=100, n_init=1, init_params='kmeans', weights_init=None, means_init=None, precisions_init=None, random_state=None, warm_start=False, verbose=0, verbose_interval=10)<br>
 **Numero ótimo de Clusters:** 7<br>
 **Numero de Clusters escolhido:** 7<br>
 **Silhouette Score:** 0.725387<br>
 **Davies Bouldin Score:** 0.344484<br>
 **AIC / BIC Score:** 90942 / 91233 <br>
+
+<center><img src="/images/gmm_performace_table.png" alt="table" width="445" height="338"/></center>
+
+
+<i>Nota: o valor encontrado para o Silhouette Score é bom, o que siginifica que a distancia intra cluster é relativamente alta ( estão bem separados)<i><br>
 
 <br>
 
@@ -53,6 +58,9 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 <br>
 
 ## Resultado dos Clusters
+
+<center><img src="/images/gmm_clusters_graph.png" alt="clusters" width="700" height="525"/></center>
+
 
 <blockquote style="color: #000000;">
 
@@ -63,7 +71,7 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 - São clientes que <mark>solicitam adiantamento</mark> de crédito com <mark>baixissima frequencia</mark> 
 - São clientes que possuem <mark>moderada taxa de pagamento</mark>  com relação ao valor integral do cartão de crédito
 
-*Rating: 3.5*
+Plano de Ação:
 
 ***
 
@@ -134,10 +142,8 @@ Rating: 3.0
     
 </blockquote>    
 
-## Esboço de Estudo de Viabilidade do Projeto
+## Viabilidade do Projeto
+
+Os projetos de clusterização para segmentação de clientes costumam apresentar bons resultados mesmo em modelos mais simples em que apenas um cientista de dados consegue desenvolve-lo em um intervalo de tempo baixo. Como não temos uma base comparativa ( estamos considerando que hipoteticamente o Banco não possuí nenhum projeto com essa caracteristica), o projeto apresenta uma boa solução pois consegue dividir bem, grupos distintos de clientes, que necessitam de tratamentos diferentes. 
 
 <center><img src="/images/priorization_matrix.png" alt="viability" width="900" height="720"/></center>
-
-## Possível plano de ação
-
-
