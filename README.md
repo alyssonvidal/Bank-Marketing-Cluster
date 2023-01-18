@@ -33,16 +33,16 @@ Para isso, o Banco forneceu algumas opções de datasets para candidado escolher
 
 
 ## Estágios de Desenvolvimento
-[**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
+[**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
 Lidando com valores ausentes com o KNN Imputer...
 
-[**Analise Exploratória dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
-Analise Univariada, Analise Multivariada.
+[**Analise Exploratória dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part02_eda.ipynb)<br>
+Analise Univariada, Analise Bivariada, Analise Multivariada.
 
-[**Preparação dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
+[**Preparação dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
 Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redução de Dimensionalidade (PCA, UMAP, t-SNE).
 
-[**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/bank_market.ipynb)<br>
+[**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
  Kmeans, Hierachical Clustering, Gaussian Mixture Model<br><br>
 
 
@@ -56,3 +56,6 @@ Linguagens: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Bibliotecas: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Metodologia: CRISP-DM<br>
+
+## Referencias
+https://www.forbes.com/advisor/credit-cards/what-is-a-cash-advance-and-should-you-get-one/
