@@ -55,7 +55,6 @@ IDE: Visual Studio Code, Jupyter Notebook<br>
 Bibliotecas: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
 Metodologia: CRISP-DM<br>
 
-**
 
 # Resultados
 
@@ -76,7 +75,7 @@ Limite de Crédito Médio: $4411.29<br>
 Qtd de clientes que excederam o limite de crédito: 50
 
 
-<u>Plano de Ação:</u> é oferecer descontos especiais ou recompensas por usá-lo mais. Por exemplo, o banco pode oferecer descontos em compras feitas no cartão ou recompensas em forma de pontos ou milhas que podem ser trocadas por produtos ou serviços. O banco também pode oferecer incentivos para usar o cartão em certas lojas ou em certos tipos de compras, como compras online ou em estabelecimentos específicos. Além disso, o banco pode promover promoções e oferecer prêmios aos clientes que usam o cartão de crédito à vista com mais frequência.
+<u>Plano de Ação:</u> O Banco poderia aumentar o limite do cartão de crédito, como são clientes quem compram em qualidade não quantidade talvez um saldo maior um pouco seja um insentivo a comprar mais.
 
 ***
 
@@ -91,7 +90,7 @@ Limite de Crédito Médio: $4020.97 +/- 3249.02<br>
 Qtd de clientes que excederam o limite de crédito: 50
 
 
-<u>Plano de Ação:</u> 
+<u>Plano de Ação:</u> O Banco poderia oferecer aqueles com bom histórico de pagamento taxas de juros um pouco mais acessiveis. As taxas de juros do adiantamento em dinheiro são bem elevadas em comparação a outras taxas, como já são clientes cientes disso e mesmo assim operam desa maneira.
 
 
 ***
@@ -107,7 +106,7 @@ Limite de Crédito Médio: $3114.81 +/- 2692.72<br>
 Qtd de clientes que excederam o limite de crédito: 57
 
 
-<u>Plano de Ação:</u> Uma campanha de marketing que um banco poderia adotar para incentivar clientes a usarem ainda mais o cartão de crédito parcelado é oferecer descontos especiais para compras realizadas com o cartão. Além disso, o banco poderia oferecer programas de fidelidade que oferecem pontos para cada compra realizada com o cartão, que podem ser trocados por recompensas. Outra opção é oferecer parcelamentos especiais para compras realizadas com o cartão, com taxas de juros mais baixas ou prazos de pagamento mais longos. Finalmente, o banco poderia oferecer ainda mais benefícios para aqueles que usam o cartão frequentemente, como descontos em produtos específicos ou serviços adicionais.
+<u>Plano de Ação:</u> O Banco poderia oferecer parcelamentos especiais para compras realizadas com o cartão de crédito, com taxas de juros mais baixas ou prazos de pagamento mais longos, o Banco poderia oferecer ainda mais benefícios para aqueles que usam o cartão frequentemente, como descontos em produtos específicos ou serviços adicionais.
 
 
 ***
@@ -122,7 +121,7 @@ Lucro: $814.026.84<br>
 Limite de Crédito Médio: $5589.61 +/- 3908.91<br>
 Qtd de clientes que excederam o limite de crédito: 69
 
-<u>Plano de Ação:</u> Uma campanha de marketing para clientes que costumam comprar em varias modalidades pode começar com um programa de fidelidade. Isso pode incluir oferecer um desconto especial para cada compra, a chance de acumular pontos e trocá-los por recompensas, além de oferecer ofertas exclusivas para os clientes mais fiéis. Além disso, você também pode considerar a criação de cupons de desconto para incentivar os clientes a comprar mais. O envio de e-mails com promoções especiais para clientes com histórico de compras anteriores também pode ser útil. Por fim, você também pode considerar a criação de uma comunidade online para seus clientes, permitindo que eles compartilhem suas experiências de compra e discutam promoções.
+<u>Plano de Ação:</u> O Banco poderia fazer um programa de fidelidade, como são clientes que operam em todos as modalidades e possuem alto limite de crédito. Isso pode incluir oferecer um desconto especial para cada compra, a chance de acumular pontos e trocá-los por recompensas, além de oferecer ofertas exclusivas para os clientes mais fiéis. 
 
 
 ***
@@ -138,7 +137,7 @@ Limite de Crédito Médio: $5539.68 +/- 3774.96<br>
 Qtd de clientes que excederam o limite de crédito: 203
 
 
-Plano de Ação: Uma campanha de marketing que o Banco poderia adotar para clientes que possuem com histórico ruim de pagamentos e que possuem dívidas no cartão de crédito seria oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
+Plano de Ação: O Banco oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
 
     
 ***
@@ -159,7 +158,7 @@ Qtd de clientes que excederam o limite de crédito: 8
 
 ***
 
-**Cluster 05 - Consumidores de baixa frequencia que quase sempre compram a vista, eventualmente com adiantamento em dinheiro** 
+**Cluster 06 - Consumidores de baixa frequencia que quase sempre compram a vista, eventualmente com adiantamento em dinheiro** 
 
 Clientes: 793,	8.86%<br>
 Compras: $470.009,02
