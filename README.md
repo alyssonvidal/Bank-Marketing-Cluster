@@ -16,7 +16,7 @@ Para isso, o Banco forneceu algumas opções de datasets para candidado escolher
 * Reportar os resultados obtidos. 
 <br><br>
 
-<i>**Nota:** O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i>
+<i>Nota: O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i>
 
 
 **Secundário:**
