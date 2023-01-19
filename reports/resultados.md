@@ -62,7 +62,7 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 <center><img src="/images/gmm_clusters_graph.png" alt="clusters" width="700" height="525"/></center>
 
 
-<blockquote style="color: #000000;">
+#<blockquote style="color: #000000;">
 
 **Cluster 00 - Zé Dinheirista**
 - São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixa frequencia</mark>
@@ -85,7 +85,7 @@ O Banco poderia instituir um programa de recompensas que oferece descontos e ben
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark> 
 - São clientes que não possuem dividas com relação ao cartão de crédito.
 
-Count: 2053.00	22.94%<br>
+Count: 2053.00, 22.94%<br>
 Purchase: $59.02<br>
 Profit: $33.381.864,14
 
@@ -98,9 +98,10 @@ Profit: $33.381.864,14
 **Cluster 02 - Zé Parcelinho Pobre** 
 - São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixissima frequencia</mark>
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark> 
+- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark>
+- São clientes que na média possuem <mark>pouco saldo</mark> no cartão de crédito 
 
-Count: 1812	20.25%<br>
+Count: 1812, 20.25%<br>
 Purchases: $950.576,47<br>
 Profit: $385.453,49
 
@@ -131,7 +132,7 @@ O Banco poderia oferecer benefícios especiais para os clientes entusiastas, com
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>moderada frequencia</mark>
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark> 
 
-Count: 1697, 18.96%
+Count: 1697, 18.96%<br>
 Purchases: $3.572.670,52<br>
 Profit: -$276.002,85
 
@@ -144,8 +145,9 @@ Plano de Ação: Uma campanha de marketing que o Banco poderia adotar para clien
 - São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixissima frequencia</mark>
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>moderada frequencia</mark>
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark>
+- São clientes que na média <mark>possuem bastante</mark> saldo no cartão de crédito
 
-Count: 458, 5.12%
+Count: 458, 5.12%<br>
 Purchases: $230.613,74
 Profit: $642.650,66
 
