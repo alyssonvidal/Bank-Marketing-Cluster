@@ -69,10 +69,12 @@ O **Silhouette Score** é uma métrica usada para medir o quão próximo cada po
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>baixissima frequencia</mark>
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark>  
 
-Count: 1086, 12.13%
+Count: 1086, 12.13%<br>
 Profit: $316.071,25
 
-**Plano de Ação:** O que difere esses clientes para os demais são as operações com adiantamento em dinheiro, esse é o grupo com clientes que mais operam nessa modalidade. As taxas de adiantamento em dinheiro costumam ser altas.
+<u>Plano de Ação:</u> Uma campanha de marketing que o banco poderia adotar para incentivar os clientes a comprar com adiantamento em dinheiro é o lançamento de uma promoção de descontos em compras com dinheiro. Por exemplo, o banco poderia oferecer um desconto de 10% em compras feitas com dinheiro. Essa promoção pode ser aplicada a todos os clientes, ou a um grupo específico de clientes, como os que usam a conta corrente do banco. O banco também pode oferecer brindes, como um cartão de crédito de presente, para aqueles que fizerem compras com adiantamento em dinheiro. A promoção pode ser divulgada em meios de comunicação, como anúncios em jornais, rádios, outdoors, postagens em mídias sociais, e-mails e outras formas de marketing.
+
+O Banco poderia instituir um programa de recompensas que oferece descontos e benefícios adicionais para os clientes que costumam comprar com adiantamento em dinheiro. Estas recompensas podem incluir ofertas de descontos em contas de poupança, empréstimos, serviços de transferência de dinheiro e outros serviços financeiros. O Banco também poderá oferecer acesso a produtos e serviços especiais para esses clientes, como cartões de crédito premium, serviços de investimento e até mesmo descontos em estabelecimentos comerciais parceiros.
 
 ***
 
@@ -82,10 +84,12 @@ Profit: $316.071,25
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark> 
 - São clientes que não possuem dividas com relação ao cartão de crédito.
 
-Plano de Ação: A estratégia nesse caso é reativar o cliente e identificar as possiveis causas, questões pessoais, problemas operacionais, acessibilidade, etc. Por serem clientes que não possuí debitos com o Banco, promoções com taxas mais acessíveis pode ser uma boa idéia.
-
-Count: 2053.00	22.94%
+Count: 2053.00	22.94%<br>
 Profit: $33.381.864,14
+
+<u>Plano de Ação:</u> Uma campanha de marketing que pode ser adotada pelo Banco para clientes ausentes no cartão de crédito seria uma campanha de reactivação. Esta campanha pode incluir ofertas especiais, como juros reduzidos ou um período de isenção de taxas e juros, para incentivar os clientes a começarem a usar novamente o cartão de crédito. O banco também pode criar uma campanha de marketing para educar os clientes sobre como usar de forma responsável o cartão de crédito. Isso pode incluir informações sobre como gerenciar as dívidas, evitar o endividamento excessivo e, assim, ajudar os clientes a obterem o máximo dos benefícios do cartão de crédito.
+
+
 
 ***
 
@@ -94,11 +98,13 @@ Profit: $33.381.864,14
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>alta frequencia</mark>
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark> 
 
-Count: 1812	20.25%
-Purchases: $950.576,47
+Count: 1812	20.25%<br>
+Purchases: $950.576,47<br>
 Profit: $385.453,49
 
-Plano de Ação: A estratégia nesse caso é reativar o cliente e identificar as possiveis causas, questões pessoais, problemas operacionais, acessibilidade, etc. Por serem clientes que não possuí debitos com o Banco, promoções com taxas mais acessíveis pode ser uma boa idéia.
+<u>Plano de Ação:</u> Uma campanha de marketing para clientes que costumam comprar parcelado pode incluir ofertas como descontos em pagamentos à vista, cupons de desconto, ofertas de pagamento em até 12x sem juros, promoções com itens adicionais, entre outros. Além disso, também é importante focar em um serviço de atendimento ao cliente de qualidade para garantir a satisfação dos clientes com a experiência de compra.
+
+Uma estratégia que o Banco poderia adotar com os seus clientes que costumam comprar parcelado é oferecer uma recompensa por não pedir mais parcelas. Por exemplo, eles podem receber um bônus de desconto na próxima compra se pagarem a compra à vista. Além disso, o banco também pode oferecer programas de fidelidade que recompensam os clientes que fazem compras frequentes com descontos e outras vantagens. Finalmente, o banco também pode oferecer programas educativos para ensinar os clientes a administrar suas finanças de forma responsável e evitar o endividamento.
 
 
 ***
@@ -108,10 +114,12 @@ Plano de Ação: A estratégia nesse caso é reativar o cliente e identificar as
 - São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>levemente baixa frequencia</mark>
 - São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark> 
 
-Count: 961, 10.74%
+Count: 961, 10.74%<br>
 Profit: $814.026.84
 
-Plano de Ação: São clientes que operam nas três modalidades do Banco, possuem um perfil de pessoa atenta as novidades e boas promoções. 
+<u>Plano de Ação:</u> Uma campanha de marketing para clientes que costumam comprar em varias modalidades pode começar com um programa de fidelidade. Isso pode incluir oferecer um desconto especial para cada compra, a chance de acumular pontos e trocá-los por recompensas, além de oferecer ofertas exclusivas para os clientes mais fiéis. Além disso, você também pode considerar a criação de cupons de desconto para incentivar os clientes a comprar mais. O envio de e-mails com promoções especiais para clientes com histórico de compras anteriores também pode ser útil. Por fim, você também pode considerar a criação de uma comunidade online para seus clientes, permitindo que eles compartilhem suas experiências de compra e discutam promoções.
+
+O Banco poderia oferecer benefícios especiais para os clientes entusiastas, como descontos em contas, descontos em serviços bancários, acesso a linhas de crédito especiais, ofertas exclusivas, cashback e outros incentivos. Além disso, o banco também pode oferecer programas educativos para ensinar aos clientes sobre os benefícios de gerenciar suas finanças, ajudando-os a tomar decisões financeiras informadas. Por fim, o banco também pode criar campanhas de marketing para promover seus serviços e incentivar os clientes a usá-los.
 
 ***
 
@@ -123,7 +131,7 @@ Plano de Ação: São clientes que operam nas três modalidades do Banco, possue
 Count: 1697, 18.96%
 Profit: -$276.002,85
 
-Plano de Ação: A estratégia nesse caso é uma parcimonia entre cobrança e negociação das dividas.
+Plano de Ação: Uma campanha de marketing que o Banco poderia adotar para clientes que possuem dívidas no cartão de crédito seria oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
 
     
 ***
@@ -137,7 +145,7 @@ Count: 458, 5.12%
 Purchases: $230.613,74
 Profit: $642.650,66
 
-Plano de Ação: São clientes que não utilizam tanto o cartão de crédito mas quando utilizam estão dispostos a gastar mais, principalmente para compras parceladas, o saldo do cartão de crédito destes clientes estam sempre alto. São tendem a pagar mais do que os clientes do cluster 2
+<u>Plano de Ação:</u> São clientes que não utilizam tanto o cartão de crédito mas quando utilizam estão dispostos a gastar mais, principalmente para compras parceladas, o saldo do cartão de crédito destes clientes estam sempre alto. São tendem a pagar mais do que os clientes do cluster 2
 
 
 ***
@@ -151,7 +159,7 @@ Count: 793,	8.86%
 Purchases: $470.009,02
 Profit: $927.983,38
 
-Plano de Ação: São o pefil de cliente que usam pouco o cartão, usam para compras a de maior valor e quase sempre compram a vista. Um possivel plano de ação é aumentar o limite do cartão desses clientes a comprarem produtos mais caros.
+<u>Plano de Ação:</u> São o pefil de cliente que usam pouco o cartão, usam para compras a de maior valor e quase sempre compram a vista. Um possivel plano de ação é aumentar o limite do cartão desses clientes a comprarem produtos mais caros.
     
 </blockquote>    
 
@@ -160,4 +168,3 @@ Plano de Ação: São o pefil de cliente que usam pouco o cartão, usam para com
 Os projetos de clusterização para segmentação de clientes costumam apresentar bons resultados mesmo em modelos mais simples em que apenas um cientista de dados consegue desenvolve-lo em um intervalo de tempo baixo. Como não temos uma base comparativa ( estamos considerando que hipoteticamente o Banco não possuí nenhum projeto com essa caracteristica), o projeto apresenta uma boa solução pois consegue dividir bem, grupos distintos de clientes, que necessitam de tratamentos diferentes. 
 
 <center><img src="/images/priorization_matrix.png" alt="viability" width="900" height="720"/></center>
-
