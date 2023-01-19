@@ -174,11 +174,7 @@ Qtd de clientes que excederam o limite de crédito: 14
     
 </blockquote>    
 
-## Viabilidade do Projeto
-
-Os projetos de clusterização para segmentação de clientes costumam apresentar bons resultados mesmo em modelos mais simples em que apenas um cientista de dados consegue desenvolve-lo em um intervalo de tempo baixo. Como não temos uma base comparativa ( estamos considerando que hipoteticamente o Banco não possuí nenhum projeto com essa caracteristica), o projeto apresenta uma boa solução pois consegue dividir bem, grupos distintos de clientes, que necessitam de tratamentos diferentes. 
-
-<center><img src="/images/priorization_matrix.png" alt="viability" width="900" height="720"/></center>
+<center><img src="/images/swarm.png" alt="swarm" width="962" height="783"/></center>
 
 ## Referencias
 https://www.forbes.com/advisor/credit-cards/what-is-a-cash-advance-and-should-you-get-one/
