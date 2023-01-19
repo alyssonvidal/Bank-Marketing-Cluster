@@ -18,7 +18,9 @@ Para isso, o Banco forneceu algumas opções de datasets para candidado escolher
 
 <i>Nota: O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i><br><br>
 
-# Estudo de Caso - Segmentação de clientes de acordo com o uso do cartão de crédito
+# Estudo de Caso
+## Segmentação de Clientes - Cartão de Crédito<br><br>
+
 
 **Segmentação de Clientes** - O problema de segmentação de clientes em ciência de dados consiste na divisão dos clientes em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades unicas, potenciais de marketing, desenvolvimento de produtos e atendimento personalizado. Ao entender as características únicas de cada segmento, o Banco pode direcionar melhor seus produtos e serviços para atender essas necessidades necessidades. 
 
@@ -41,10 +43,10 @@ Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redu
  Kmeans, Hierachical Clustering, Gaussian Mixture Model<br><br>
 
 
-## Relatórios
-[**Apresentação**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+# Relatórios
+[**Relatório Técnico**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
 
-## Ferramentas
+# Ferramentas
 Linguagens: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Bibliotecas: Pandas, Matplotlib, Seaborn, Plotly, Sklearn, scipy, yellowbricks<br>
@@ -61,7 +63,7 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 
 <blockquote style="color: #000000;">
 
-**Cluster 00 - Consumidores de baixa frequencia que compram quase sempre a vista**
+**Cluster 00 - Consumidores com baixa frequencia de uso do cartão de crédito e que compram quase sempre a vista**
 
 Clientes: 1086, 12.13%<br>
 Compras: $912.743.45<br>
@@ -76,7 +78,7 @@ Qtd de clientes que excederam o limite de crédito: 50
 
 ***
 
-**Cluster 01 - Consumidores de baixa frequencia que compram quase sempre com adiantamento em dinheiro** 
+**Cluster 01 - Clientes com baixa frequencia de uso do cartão de crédito e que compram quase sempre com adiantamento em dinheiro** 
 
 Clientes: 2053.00, 22.94%<br>
 Compras: $59.02<br>
@@ -92,7 +94,7 @@ Qtd de clientes que excederam o limite de crédito: 50
 
 ***
 
-**Cluster 02 - Consumidores de alta frequencia que quase sempre compram parcelados** 
+**Cluster 02 - Clientes com alta frequencia de uso do cartão de crédito e que compram parcelado** 
 
 Clientes: 1812, 20.25%<br>
 Compras: $950.576,47<br>
@@ -108,7 +110,7 @@ Qtd de clientes que excederam o limite de crédito: 57
 
 ***
 
-**Cluster 03 - Consumidores de alta frequencia que operam em todas modalidades** 
+**Cluster 03 - Clientes com alta frequencia de uso do cartão de crédito e que compram em todas modalidades** 
 
 Clientes: 961, 10.74%<br>
 Compras: $1,631.380,69<br>  
@@ -123,7 +125,7 @@ Qtd de clientes que excederam o limite de crédito: 69
 
 ***
 
-**Cluster 04 - Consumidores com histórico ruim de pagamento** 
+**Cluster 04 - Clientes com alta frequencia de uso do cartão de crédito e com histórico ruim de pagamento** 
 
 Clientes: 1697, 18.96%<br>
 Compras: $3.572.670,52<br>
@@ -139,7 +141,7 @@ Plano de Ação: O Banco oferecer um plano de pagamento flexível. O plano de pa
     
 ***
 
-**Cluster 05 - Consumidores de alta frequencia que quase sempre compram parcelados, eventualmente com adiantamento em dinheiro** 
+**Cluster 05 - Clientes com alta frequencia de uso do cartão de crédito, que quase sempre compram parcelados e eventualmente com adiantamento em dinheiro** 
 
 Clientes: 458, 5.12%<br>
 Compras: $230.613,74
@@ -155,7 +157,7 @@ Qtd de clientes que excederam o limite de crédito: 8
 
 ***
 
-**Cluster 06 - Consumidores de baixa frequencia que quase sempre compram a vista, eventualmente com adiantamento em dinheiro** 
+**Cluster 06 - Clientes com baixa frequencia de usdo do cartão de crédito, que quase sempre compram a vista e eventualmente com adiantamento em dinheiro** 
 
 Clientes: 793,	8.86%<br>
 Compras: $470.009,02
