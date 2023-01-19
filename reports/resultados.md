@@ -1,15 +1,7 @@
 
-# Report
+# Report Técnico
 
-Essa parte será apresentado os resultados do projeto de forma resumida.
-
-<br><br>
-
-## Justifique a escolha do Estudo de Caso para Costumer Segmentation?
-
-No problema de Customer Segmentation, através de algoritimos de clusterização, somos capazes de produzir insights sobre como dados similares estão relacionados e agrupados e nos ajuda também entender nosso problema de negócio, desde os conceitos mais basicos até a identificação de padrões mais ocultos. Os algoritmos de clusterização também podem ajudar a reduzir o tamanho de um conjunto de dados e permitir que os dados sejam analisados mais facilmente.
-
-Considerando a segunda parte do projeto, "viabilidade", os projetos de Costumer Segmentation são um otimo ponto de partida dentre o escopo de atuação do Cientista de Dados. Para uma empresa que não tem nenhuma ou pouca estrutura nesse aspecto. 
+Essa parte será apresentado os resultados técnicos do projeto de forma resumida.
 
 <br>
 

@@ -3,26 +3,24 @@
 ## Descrição do Problema
 Uma das dificuldades nos processos seletivos são as situações em que o o candidato é obrigado a mostrar competencia em um intervalo de tempo relativamente pequeno, esse processo se da por uma ou mais entrevistas, provas teoricas, praticas, dinâmicas de analises comportamentais, etc. Outro problema é que Cientistas de Dados jr muitas vezes sequer chegam na etapa de entrevistas, seus os portifolios de projetos sequer são vistos, o que desanima um pouco já que muitos dos projetos demoram meses para serem desenvolvidos. 
 
-Este projeto tem como objetivo simular o processo seletivo / inserção de um cientista de dados jr em um grande Banco Nacional. Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: detecção de fraude, segmentação de clientes, previsão de Inadinplencia, predição de Churn, analises em tempo real, automação de processos de comunicação, etc. 
+Este projeto tem como objetivo simular o processo seletivo / inserção de um cientista de dados jr em um grande Banco Nacional. Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: detecção de fraude, segmentação de clientes, previsão de inadinplência, predição de churn, analises em tempo real, automação de processos de comunicação, etc. 
 
 Para isso, o Banco forneceu algumas opções de datasets para candidado escolher( referentes as principais áreas de atuação do Cientista de Dados como as citadas anteriormente), a partir dessa escolha o candidato deverá apresentar um projeto num prazo máximo de sete dias exibindo de acordo com os objetivos propostos a baixo.
 
-<i>**Nota:** A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma percepção minha, não necessáriamente significa que os processos seletivos atuais seguem esse molde.</i><br><br>
+<i>Nota: A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma percepção minha, não necessáriamente significa que os processos seletivos atuais seguem esse molde.</i><br><br>
 
 
 ## Objetivo
 **Principal:**
 * O candidato deve desenvolver uma solução dentre o escopo de atuação do cientista de dados para o Estudo de Caso escolhido.
-* Reportar os resultados obtidos. 
+* Apresentar os resultados obtidos de maneira simples. 
 <br><br>
 
 <i>Nota: O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i>
 
 
 **Secundário:**
-* Justificar os motivos para a escolha do estudo de caso.
-* Descrever o principio de funcionamento do algoritimo de Machine Learning selecionado e as métricas utilizadas.
-* Apresentar a viabilidade do projeto, considerando que hipoteticamente o Banco possua poucas ou nenhuma solução na área de atuação escolhida.
+
 * Apresentar um possivel plano de ação do Banco com base os resultados obtidos<br><br>
 
 ## Estudo de Caso
@@ -59,112 +57,118 @@ Metodologia: CRISP-DM<br>
 
 **
 
-# Resumo
+# Resultados
 
-Após o desenvolvimento do modelo de clusterização chegamos, numa solução otimizada para sete agrupamentos de clientes, com as seguintes caracteristicas:
+Após o desenvolvimento do modelo de clusterização chegamos, numa solução otimizada para sete agrupamentos de clientes e um possivel plano de ação de acordo com as principais caracteristicas apontadas. A estratégia basica do plano de ação é explorar as modalidades de compra que o cliente estão habituados a usar, oferencendo-os vantagens.
+
+<center><img src="/images/pie.png" alt="pie" width="512" height="411"/></center>
 
 <blockquote style="color: #000000;">
 
-**Cluster 00 - Zé Dinheirista**
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixa frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark>  
+**Cluster 00 - Consumidores de baixa frequencia que compram quase sempre a vista**
 
-Count: 1086, 12.13%<br>
-Purchase: $912.743.45<br.>
-Profit: $316.071,25
-
-<u>Plano de Ação:</u> Uma campanha de marketing que o banco poderia adotar para incentivar os clientes a comprar com adiantamento em dinheiro é o lançamento de uma promoção de descontos em compras com dinheiro. Por exemplo, o banco poderia oferecer um desconto de 10% em compras feitas com dinheiro. Essa promoção pode ser aplicada a todos os clientes, ou a um grupo específico de clientes, como os que usam a conta corrente do banco. O banco também pode oferecer brindes, como um cartão de crédito de presente, para aqueles que fizerem compras com adiantamento em dinheiro. A promoção pode ser divulgada em meios de comunicação, como anúncios em jornais, rádios, outdoors, postagens em mídias sociais, e-mails e outras formas de marketing.
-
-O Banco poderia instituir um programa de recompensas que oferece descontos e benefícios adicionais para os clientes que costumam comprar com adiantamento em dinheiro. Estas recompensas podem incluir ofertas de descontos em contas de poupança, empréstimos, serviços de transferência de dinheiro e outros serviços financeiros. O Banco também poderá oferecer acesso a produtos e serviços especiais para esses clientes, como cartões de crédito premium, serviços de investimento e até mesmo descontos em estabelecimentos comerciais parceiros.
-
-***
-
-**Cluster 01 - Zé Soneca** 
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark> 
-- São clientes que não possuem dividas com relação ao cartão de crédito.
-
-Count: 2053.00, 22.94%<br>
-Purchase: $59.02<br>
-Profit: $33.381.864,14
-
-<u>Plano de Ação:</u> Uma campanha de marketing que pode ser adotada pelo Banco para clientes ausentes no cartão de crédito seria uma campanha de reactivação. Esta campanha pode incluir ofertas especiais, como juros reduzidos ou um período de isenção de taxas e juros, para incentivar os clientes a começarem a usar novamente o cartão de crédito. O banco também pode criar uma campanha de marketing para educar os clientes sobre como usar de forma responsável o cartão de crédito. Isso pode incluir informações sobre como gerenciar as dívidas, evitar o endividamento excessivo e, assim, ajudar os clientes a obterem o máximo dos benefícios do cartão de crédito.
+Clientes: 1086, 12.13%<br>
+Compras: $912.743.45<br>
+Frequencia média de compras: 0.35<br>
+Qtd média de compras: 7.40 +/- 11.47<br>
+Lucro: $316.071,25<br>
+Limite de Crédito Médio: $4411.29<br>
+Qtd de clientes que excederam o limite de crédito: 50
 
 
+<u>Plano de Ação:</u> é oferecer descontos especiais ou recompensas por usá-lo mais. Por exemplo, o banco pode oferecer descontos em compras feitas no cartão ou recompensas em forma de pontos ou milhas que podem ser trocadas por produtos ou serviços. O banco também pode oferecer incentivos para usar o cartão em certas lojas ou em certos tipos de compras, como compras online ou em estabelecimentos específicos. Além disso, o banco pode promover promoções e oferecer prêmios aos clientes que usam o cartão de crédito à vista com mais frequência.
 
 ***
 
-**Cluster 02 - Zé Parcelinho Pobre** 
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark>
-- São clientes que na média possuem <mark>pouco saldo</mark> no cartão de crédito 
+**Cluster 01 - Consumidores de baixa frequencia que compram quase sempre com adiantamento em dinheiro** 
 
-Count: 1812, 20.25%<br>
-Purchases: $950.576,47<br>
-Profit: $385.453,49
+Clientes: 2053.00, 22.94%<br>
+Compras: $59.02<br>
+Frequencia média de compras: 0.00<br>
+Qtd média de compras: 0.01 +/-	0.10<br>
+Lucro: $33.381.864,14 <i>A base de dados não possuí dados referentes ao pagamento do adiantamento</i><br>
+Limite de Crédito Médio: $4020.97 +/- 3249.02<br>
+Qtd de clientes que excederam o limite de crédito: 50
 
-<u>Plano de Ação:</u> Uma campanha de marketing para clientes que costumam comprar parcelado pode incluir ofertas como descontos em pagamentos à vista, cupons de desconto, ofertas de pagamento em até 12x sem juros, promoções com itens adicionais, entre outros. Além disso, também é importante focar em um serviço de atendimento ao cliente de qualidade para garantir a satisfação dos clientes com a experiência de compra.
 
-Uma estratégia que o Banco poderia adotar com os seus clientes que costumam comprar parcelado é oferecer uma recompensa por não pedir mais parcelas. Por exemplo, eles podem receber um bônus de desconto na próxima compra se pagarem a compra à vista. Além disso, o banco também pode oferecer programas de fidelidade que recompensam os clientes que fazem compras frequentes com descontos e outras vantagens. Finalmente, o banco também pode oferecer programas educativos para ensinar os clientes a administrar suas finanças de forma responsável e evitar o endividamento.
+<u>Plano de Ação:</u> 
 
 
 ***
 
-**Cluster 03 - Zé Entusiasta** 
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>levemente alta frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>levemente baixa frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark> 
+**Cluster 02 - Consumidores de alta frequencia que quase sempre compram parcelados** 
 
-Count: 961, 10.74%<br>
-Purchase: $1,631.380,69<br>
-Profit: $814.026.84
+Clientes: 1812, 20.25%<br>
+Compras: $950.576,47<br>
+Frequencia média de compras: 0.70<br>
+Qtd média de compras: 11.68	+/- 11.33<br>
+Lucro: $385.453,49<br>
+Limite de Crédito Médio: $3114.81 +/- 2692.72<br>
+Qtd de clientes que excederam o limite de crédito: 57
+
+
+<u>Plano de Ação:</u> Uma campanha de marketing que um banco poderia adotar para incentivar clientes a usarem ainda mais o cartão de crédito parcelado é oferecer descontos especiais para compras realizadas com o cartão. Além disso, o banco poderia oferecer programas de fidelidade que oferecem pontos para cada compra realizada com o cartão, que podem ser trocados por recompensas. Outra opção é oferecer parcelamentos especiais para compras realizadas com o cartão, com taxas de juros mais baixas ou prazos de pagamento mais longos. Finalmente, o banco poderia oferecer ainda mais benefícios para aqueles que usam o cartão frequentemente, como descontos em produtos específicos ou serviços adicionais.
+
+
+***
+
+**Cluster 03 - Consumidores de alta frequencia que operam em todas modalidades** 
+
+Clientes: 961, 10.74%<br>
+Compras: $1,631.380,69<br>  
+Frequencia média de compras: 0.78<br>
+Qtd média de compras: 28.37	+/- 25.48<br>
+Lucro: $814.026.84<br>
+Limite de Crédito Médio: $5589.61 +/- 3908.91<br>
+Qtd de clientes que excederam o limite de crédito: 69
 
 <u>Plano de Ação:</u> Uma campanha de marketing para clientes que costumam comprar em varias modalidades pode começar com um programa de fidelidade. Isso pode incluir oferecer um desconto especial para cada compra, a chance de acumular pontos e trocá-los por recompensas, além de oferecer ofertas exclusivas para os clientes mais fiéis. Além disso, você também pode considerar a criação de cupons de desconto para incentivar os clientes a comprar mais. O envio de e-mails com promoções especiais para clientes com histórico de compras anteriores também pode ser útil. Por fim, você também pode considerar a criação de uma comunidade online para seus clientes, permitindo que eles compartilhem suas experiências de compra e discutam promoções.
 
-O Banco poderia oferecer benefícios especiais para os clientes entusiastas, como descontos em contas, descontos em serviços bancários, acesso a linhas de crédito especiais, ofertas exclusivas, cashback e outros incentivos. Além disso, o banco também pode oferecer programas educativos para ensinar aos clientes sobre os benefícios de gerenciar suas finanças, ajudando-os a tomar decisões financeiras informadas. Por fim, o banco também pode criar campanhas de marketing para promover seus serviços e incentivar os clientes a usá-los.
 
 ***
 
-**Cluster 04 - Zé Lascado** 
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>moderada frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>moderada frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixissima frequencia</mark> 
+**Cluster 04 - Consumidores com histórico ruim de pagamento** 
 
-Count: 1697, 18.96%<br>
-Purchases: $3.572.670,52<br>
-Profit: -$276.002,85
+Clientes: 1697, 18.96%<br>
+Compras: $3.572.670,52<br>
+Frequencia média de compras: 0.81<br>
+Qtd média de compras: 32.41 +/- 31.07<br>
+Lucro: -$276.002,85<br>
+Limite de Crédito Médio: $5539.68 +/- 3774.96<br>
+Qtd de clientes que excederam o limite de crédito: 203
 
-Plano de Ação: Uma campanha de marketing que o Banco poderia adotar para clientes que possuem dívidas no cartão de crédito seria oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
+
+Plano de Ação: Uma campanha de marketing que o Banco poderia adotar para clientes que possuem com histórico ruim de pagamentos e que possuem dívidas no cartão de crédito seria oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
 
     
 ***
 
-**Cluster 05 - Zé Parcelinho Rico** 
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>moderada frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark>
-- São clientes que na média <mark>possuem bastante</mark> saldo no cartão de crédito
+**Cluster 05 - Consumidores de alta frequencia que quase sempre compram parcelados, eventualmente com adiantamento em dinheiro** 
 
-Count: 458, 5.12%<br>
-Purchases: $230.613,74
-Profit: $642.650,66
+Clientes: 458, 5.12%<br>
+Compras: $230.613,74
+Frequencia média de compras: 0.65<br>
+Qtd média de compras: 11.58	+/- 11.64<br>
+Lucro: $642.650,66<br>
+Limite de Crédito Médio: $4298.91 +/- 3516.92<br>
+Qtd de clientes que excederam o limite de crédito: 8
+
 
 <u>Plano de Ação:</u> São clientes que não utilizam tanto o cartão de crédito mas quando utilizam estão dispostos a gastar mais, principalmente para compras parceladas, o saldo do cartão de crédito destes clientes estam sempre alto. São tendem a pagar mais do que os clientes do cluster 2
 
 
 ***
 
-**Cluster 06 - Zé Pão Duro**
-- São clientes que utilizam a modalidade <mark>a vista</mark> com <mark>baixa frequencia</mark>
-- São clientes que utilizam a modalidade <mark>parcelado</mark> com <mark>baixissima frequencia</mark>
-- São clientes que utilizam a modalidade <mark>adiantamento em dinheiro</mark> com <mark>baixa frequencia</mark>
+**Cluster 05 - Consumidores de baixa frequencia que quase sempre compram a vista, eventualmente com adiantamento em dinheiro** 
 
-Count: 793,	8.86%
-Purchases: $470.009,02
-Profit: $927.983,38
+Clientes: 793,	8.86%<br>
+Compras: $470.009,02
+Frequencia média de compras: 0.28<br>
+Qtd média de compras: 6.23 +/- 13.33<br>
+Lucro: $927.983,38<br>
+Limite de Crédito Médio: $4584.27 +/- 3462.71<br>
+Qtd de clientes que excederam o limite de crédito: 14
+
 
 <u>Plano de Ação:</u> São o pefil de cliente que usam pouco o cartão, usam para compras a de maior valor e quase sempre compram a vista. Um possivel plano de ação é aumentar o limite do cartão desses clientes a comprarem produtos mais caros.
     
