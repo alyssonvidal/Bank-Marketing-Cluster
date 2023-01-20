@@ -19,13 +19,13 @@ A base de dados contém dados referentes ao uso do cartão de crédito de 8950 c
 
 # Estágios de Desenvolvimento
 [**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
-Lidando com valores ausentes com o KNN Imputer...
+Carregamento, Dados Faltantes (KNN Imputer), Dados Duplicados, Engenharia de Dados...
 
 [**Analise Exploratória dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part02_eda.ipynb)<br>
 Analise Univariada, Analise Bivariada, Analise Multivariada.
 
 [**Preparação dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redução de Dimensionalidade (PCA, UMAP, t-SNE).
+Detecção de Outlier (Isolation Forest), Normalização, Padronização, Redução de Dimensionalidade (PCA, UMAP, t-SNE).
 
 [**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
  Kmeans, Hierachical Clustering, Gaussian Mixture Model<br><br>
