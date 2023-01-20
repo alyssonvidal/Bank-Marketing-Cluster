@@ -55,12 +55,13 @@ O **Modelo de Mistura Gaussiana (GMM)** é um modelo de agrupamento probabilíst
 
 <i>Nota: o valor encontrado para o Silhouette Score e Davies Bouldin Score são consideravelmente bons,  a distancia intra cluster é relativamente alta ( estão bem separados)<i><br>
 
+<center><img src="/images/gmm_clusters_graph.png" alt="clusters" width="700" height="525"/></center>
+
 <br>
 
 *** 
 
 <br>
 
-## Resultado dos Clusters
+## Interpretação do Clusters
 
-<center><img src="/images/gmm_clusters_graph.png" alt="clusters" width="700" height="525"/></center>

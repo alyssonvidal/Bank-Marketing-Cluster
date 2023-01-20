@@ -1,33 +1,23 @@
 <center><img src="/images/pexels-pixabay-259200.jpg" alt="logo" width="800" height="600"/></center>
 
 # Descrição do Problema
-Uma das dificuldades nos processos seletivos são as situações em que o o candidato é obrigado a mostrar competencia em um intervalo de tempo relativamente pequeno, esse processo se da por uma ou mais entrevistas, provas teoricas, praticas, dinâmicas de analises comportamentais, etc. Outro problema é que Cientistas de Dados jr muitas vezes sequer chegam na etapa de entrevistas, seus os portifolios de projetos sequer são vistos, o que desanima um pouco já que muitos dos projetos demoram meses para serem desenvolvidos. 
 
-Este projeto tem como objetivo simular o processo seletivo / inserção de um cientista de dados jr em um grande Banco Nacional. Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: detecção de fraude, segmentação de clientes, previsão de inadinplência, predição de churn, analises em tempo real, automação de processos de comunicação, etc. 
+Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: segmentação de clientes, detecção de fraude, previsão de inadinplência, predição de churn, analises em tempo real, automação de processos de comunicação, etc. 
 
-Para isso, o Banco forneceu algumas opções de datasets para candidado escolher( referentes as principais áreas de atuação do Cientista de Dados como as citadas anteriormente), a partir dessa escolha o candidato deverá apresentar um projeto num prazo máximo de sete dias exibindo de acordo com os objetivos propostos a baixo.
+Neste projeto iremos desenvolver uma solução para o problema de segmentação de cliente de um Banco com base no perfil de uso do cartão de crédito, nosso objetivo é identificar esses clientes e com os resultados obtido sugerir um plano de ação.
 
-<i>Nota: A premissa de que poderia ser um projeto de um processo seletivo Cientista de Dados Jr de um Banco, é uma percepção minha, não necessáriamente significa que os processos seletivos atuais seguem esse molde.</i><br><br>
+O problema de segmentação de clientes em ciência de dados consiste na divisão dos clientes em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades unicas, potenciais de marketing, desenvolvimento de produtos e atendimento personalizado. Ao entender as características únicas de cada segmento, o Banco pode direcionar melhor seus produtos e serviços para atender essas necessidades necessidades.
+Através de algoritmos inteligentes de Machine Learning, é possivel desenvolver soluções otimizadas, capazes de fazer agrupamentos ( conhecidos também como clusters) matemáticamente o mais distinto possivel, descobrir padrões ocultos na base de dados e automatatizar processos de forma robusta e escalável.
+
+A base de dados contém os dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num periodo de seis meses e está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
 
 
 # Objetivo
 
 * O candidato deve desenvolver uma solução dentre o escopo de atuação do cientista de dados para o Estudo de Caso escolhido.
-* Apresentar um possivel plano de ação com base os resultados obtidos. 
-<br><br>
+* Apresentar um possivel plano de ação com base nos resultados obtidos.<br><br>
 
 <i>Nota: O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i><br><br>
-
-# Estudo de Caso
-## Segmentação de Clientes - Cartão de Crédito<br><br>
-
-
-**Segmentação de Clientes** - O problema de segmentação de clientes em ciência de dados consiste na divisão dos clientes em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades unicas, potenciais de marketing, desenvolvimento de produtos e atendimento personalizado. Ao entender as características únicas de cada segmento, o Banco pode direcionar melhor seus produtos e serviços para atender essas necessidades necessidades. 
-
-Através de algoritmos inteligentes de Machine Learning, é possivel desenvolver soluções otimizadas, capazes de fazer agrupamentos ( conhecidos também como clusters) matemáticamente o mais distinto possivel, descobrir padrões ocultos na base de dados e automatatizar processos de forma robusta e escalável.
-
-**Base de Dados** - A base de dados contém os dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num periodo de seis meses. A base de dados está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
-
 
 # Estágios de Desenvolvimento
 [**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
@@ -44,7 +34,7 @@ Detecção de Outlier com Isolation Forest, Normalização, Padronização, Redu
 
 
 # Relatórios
-[**Relatório Técnico**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+[**Resumo Técnico**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
 
 # Ferramentas
 Linguagens: Python<br>
@@ -63,7 +53,7 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 
 <blockquote style="color: #000000;">
 
-**Cluster 00 - Consumidores com baixa frequencia de uso do cartão de crédito e que compram quase sempre a vista**
+**Cluster 00 - Clientes com baixa frequencia de uso do cartão de crédito e que compram quase sempre a vista**
 
 Clientes: 1086, 12.13%<br>
 Compras: $912.743.45<br>
@@ -74,7 +64,7 @@ Limite de Crédito Médio: $4411.29<br>
 Qtd de clientes que excederam o limite de crédito: 50
 
 
-<u>Plano de Ação:</u> O Banco poderia aumentar o limite do cartão de crédito, como são clientes quem compram em qualidade não quantidade talvez um saldo maior um pouco seja um insentivo a comprar mais.
+<u>Plano de Ação:</u> O Banco poderia aumentar o limite do cartão de crédito, como são clientes quem compram em qualidade não quantidade talvez um saldo maior um pouco seja um insentivo a gastar mais.
 
 ***
 
@@ -84,12 +74,14 @@ Clientes: 2053.00, 22.94%<br>
 Compras: $59.02<br>
 Frequencia média de compras: 0.00<br>
 Qtd média de compras: 0.01 +/-	0.10<br>
-Lucro: $33.381.864,14 <i>A base de dados não possuí dados referentes ao pagamento do adiantamento</i><br>
+Lucro: $33.381.864,14<br>
 Limite de Crédito Médio: $4020.97 +/- 3249.02<br>
-Qtd de clientes que excederam o limite de crédito: 50
+Qtd de clientes que excederam o limite de crédito: 50<br>
+
+<i>A base de dados não possuí dados referentes ao pagamento do adiantamento. Além disso mesmo não utilizando o cartão os Bancos lucram através de taxas de admnistração, manutenção, anuidade,etc... por isso o lucro alto</i><br>
 
 
-<u>Plano de Ação:</u> O Banco poderia oferecer aqueles com bom histórico de pagamento taxas de juros um pouco mais acessiveis. As taxas de juros do adiantamento em dinheiro são bem elevadas em comparação a outras taxas, como já são clientes cientes disso e mesmo assim operam desa maneira.
+<u>Plano de Ação:</u> O Banco poderia iniciar um programa que instrua e estimule esses clientes o o cartão de crédito já que eles possuem saldo mas não utilizam, essas pessoas talvez possuem alguns receios pelo fato das taxas de juros do cartão de crédito, serem maior do que as do adiantamento em dinheiro.
 
 
 ***
@@ -120,7 +112,7 @@ Lucro: $814.026.84<br>
 Limite de Crédito Médio: $5589.61 +/- 3908.91<br>
 Qtd de clientes que excederam o limite de crédito: 69
 
-<u>Plano de Ação:</u> O Banco poderia fazer um programa de fidelidade, como são clientes que operam em todos as modalidades e possuem alto limite de crédito. Isso pode incluir oferecer um desconto especial para cada compra, a chance de acumular pontos e trocá-los por recompensas, além de oferecer ofertas exclusivas para os clientes mais fiéis. 
+<u>Plano de Ação:</u> O Banco poderia fazer um programa de fidelidade, já que são clientes que operam em todos as modalidades, são os clientes extremamente lucrativos.
 
 
 ***
@@ -136,7 +128,7 @@ Limite de Crédito Médio: $5539.68 +/- 3774.96<br>
 Qtd de clientes que excederam o limite de crédito: 203
 
 
-Plano de Ação: O Banco oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
+<u>Plano de Ação:</u> O Banco oferecer um plano de pagamento flexível. O plano de pagamento flexível permitiria que os clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
 
     
 ***
@@ -152,7 +144,7 @@ Limite de Crédito Médio: $4298.91 +/- 3516.92<br>
 Qtd de clientes que excederam o limite de crédito: 8
 
 
-<u>Plano de Ação:</u> São clientes que não utilizam tanto o cartão de crédito mas quando utilizam estão dispostos a gastar mais, principalmente para compras parceladas, o saldo do cartão de crédito destes clientes estam sempre alto. São tendem a pagar mais do que os clientes do cluster 2
+<u>Plano de Ação:</u> São clientes que estão dispostos a gastar mais quando comparado com o cluster 2, o plano de ação poderia ser o mesmo.
 
 
 ***
@@ -176,3 +168,4 @@ Qtd de clientes que excederam o limite de crédito: 14
 
 ## Referencias
 https://www.forbes.com/advisor/credit-cards/what-is-a-cash-advance-and-should-you-get-one/
+https://www.infomoney.com.br/guias/cartao-de-credito/
