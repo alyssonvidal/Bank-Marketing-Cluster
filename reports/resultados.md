@@ -1,8 +1,8 @@
 
-# Resumo Técnico
+# <div style="color:white;display:fill;border-radius:5px;background-color:#0E2031;letter-spacing:0.5px;overflow:hidden"><p style="padding:20px;color:white;overflow:hidden;text-align: center;margin:0;font-size:120%">Resumo Técnico</p></div>  
 
 
-## Data Preprocessing
+## <div style="color:white;display:fill;border-radius:5px;background-color:#153656;letter-spacing:0.5px;overflow:hidden"><p style="padding:15px;color:white;overflow:hidden;text-align: center;margin:0;font-size:120%">Pré Processamento dos Dados</p></div>
 
 **Linhas:** 8950
 
@@ -19,7 +19,7 @@
 *** 
 <br>
 
-## Data Preparation
+## <div style="color:white;display:fill;border-radius:5px;background-color:#153656;letter-spacing:0.5px;overflow:hidden"><p style="padding:15px;color:white;overflow:hidden;text-align: center;margin:0;font-size:120%">Preparação dos Dados</p></div>
 
 
 **Normalização:** Sim<br>
@@ -40,7 +40,7 @@
 
 <br>
 
-## Modelo - GMM
+## <div style="color:white;display:fill;border-radius:5px;background-color:#153656;letter-spacing:0.5px;overflow:hidden"><p style="padding:15px;color:white;overflow:hidden;text-align: center;margin:0;font-size:120%">Modelo - GMM</p></div>
 
 O **Modelo de Mistura Gaussiana (GMM)** é um modelo de agrupamento probabilístico que assume que cada ponto de dados é gerado por uma mistura de um número finito de distribuições Gaussianas com parâmetros desconhecidos. Esses parâmetros incluem os limites de cada distribuição Gaussiana, bem como os pesos que determinam a proporção de cada distribuição na mistura. Os GMMs são comumente usados ​​para aplicações de cluster, pois podem modelar clusters que não são necessariamente redondos ou elípticos, dessa forma ele pode ser considerado uma extrapolação de outro modelo conhecido, o KMeans.
 
@@ -58,10 +58,3 @@ O **Modelo de Mistura Gaussiana (GMM)** é um modelo de agrupamento probabilíst
 <center><img src="/images/gmm_clusters_graph.png" alt="clusters" width="700" height="525"/></center>
 
 <br>
-
-*** 
-
-<br>
-
-## Interpretação do Clusters
-
