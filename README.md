@@ -51,9 +51,24 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 
 <center><img src="/images/pie.png" alt="pie" width="512" height="411"/></center>
 
-<center><img src="/images/clusters_table.png" alt="clusters" width="1007" height="237"/></center>
+<center><img src="/images/clusters_table.png" alt="clusters" width="1104" height="277"/></center>
 
 <i> O lucro descrito refere-se apenas as operações com cartão de crédito (a vista e parcelado) a base de dados não possui informações suficientes para calcular o lucro referente ao paganmento do adiantamento em dinheiro.<br>
 
-<i> Os clientes do Cluster "01" possuem saldo no cartão de crédito no entando não usam, de qualquer formas as taxas de anuidade, admistração, manutenção entre outras são cobradas, e são lucrativas para o Banco, que lucrou nesse periodo com esses clientes $33.381.864,14.<i>
+Os clientes do Cluster "01" possuem saldo no cartão de crédito no entando não usam, de qualquer formas as taxas de anuidade, admistração, manutenção entre outras são cobradas, e são lucrativas para o Banco, que lucrou nesse periodo com esses clientes $33.381.864,14.</i>
 
+## Plano de Ação
+
+Cluster 00 - São clientes que compram pouco no cartão de crédito, mas quando compram optam pelo pagamento a vista. em baixa quantidade mas de valores mais elevados, possuem tendencia a se endividar. Um plano de ação do Banco poderia ser instruir esse clientes a usarem mais o cartão de crédito parcelado para evitar que se endividem num periodo de tempo curto.
+
+**Cluster 01 -**  São clientes possuem saldo no cartão de crédito mas não utilizam e optam pelo adiantamento em dinheiro. Essas pessoas talvez possuem alguns receios pelo fato das taxas de juros do cartão de crédito, serem maior do que as do adiantamento em dinheiro. Um plano de ação interessante seria iniciar um programa capaz de instruir, estimular e facilitar esses clientes a utilizarem o cartão de crédito, um programa capaz de oferecer suporte ao cliente para facilitar a compreensão das taxas, tarifas e outras obrigações associadas ao uso do cartão de crédito; oferecer opção de pagar suas contas de cartão de crédito online; alertas de pagamento para ajudar os clientes a lembrar de realizar seus pagamentos em tempo, etc.
+
+**Cluster 02 -** São cliente que tem o hábito de comprar com cartão de crédito parcelado, são clientes com tendencia a se endividarem. Um plano de ação poderia ser oferecer incentivos, como descontos, pontos de recompensa e outras vantagens.
+
+**Cluster 03 -** São clientes entusiastas, que estão acostumados a comprar em todas as modalidades e possuem limite de crédito elevado. Um plano de ação seria a criação de um programa de fidelidade, para garantir que esse cliente continue no Banco.
+
+**Cluster 04 -** São clientes endividados, que não estão as vezes o minimo requisitado pelo cartão de crédito. Um plano de ação seria o Banco oferecer um plano de pagamento flexivel que esses clientes parcelassem as dívidas em um prazo maior, com juros menores. Além disso, o banco também poderia oferecer bônus como descontos, cashback e outros incentivos para que os clientes possam quitar suas dívidas mais rapidamente.
+
+**Cluster 05 -** São cliente que tem o hábito de comprar com cartão de crédito parcelado, são clientes com bom historico de pagamento. Um plano de ação poderia ser oferecer incentivos, como descontos, pontos de recompensa e outras vantagens.
+
+**Cluster 06 -** São clientes que compram pouco no cartão de crédito, mas quando compram optam tanto pelo pagamento a vista quanto adiantamento em dinheiro. São clientes possuem saldo mas não utilizam, usam para compras a de maior valor e quase sempre compram a vista, no geral possuem bom histórico de pagamento. Um plano de ação interessante poderia é o aumento do limite de crédito de forma a incentivar compras com valores ainda mais maiores.
