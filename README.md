@@ -9,7 +9,7 @@ Neste projeto será desenvolvido uma solução para o problema de segmentação 
 O problema de segmentação de clientes em ciência de dados consiste na divisão dos clientes em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades unicas, potenciais de marketing, desenvolvimento de produtos e atendimento personalizado. Ao entender as características únicas de cada segmento, o Banco pode direcionar melhor seus produtos e serviços para atender essas necessidades necessidades.
 Através de algoritmos inteligentes de Machine Learning, é possivel desenvolver soluções otimizadas, capazes de fazer agrupamentos ( conhecidos também como clusters) matemáticamente o mais distinto possivel, descobrir padrões ocultos na base de dados e automatatizar processos de forma robusta e escalável.
 
-A base de dados contém os dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num periodo de seis meses e está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
+A base de dados contém dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num periodo de seis meses. Está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
 
 
 # Objetivo
