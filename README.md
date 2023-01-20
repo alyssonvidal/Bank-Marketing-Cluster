@@ -52,3 +52,8 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 <center><img src="/images/pie.png" alt="pie" width="512" height="411"/></center>
 
 <center><img src="/images/clusters_table.png" alt="clusters" width="1007" height="237"/></center>
+
+<i> O lucro descrito refere-se apenas as operações com cartão de crédito (a vista e parcelado) a base de dados não possui informações suficientes para calcular o lucro referente ao paganmento do adiantamento em dinheiro.<br>
+
+<i> Os clientes do Cluster "01" possuem saldo no cartão de crédito no entando não usam, de qualquer formas as taxas de anuidade, admistração, manutenção entre outras são cobradas, e são lucrativas para o Banco, que lucrou nesse periodo com esses clientes $33.381.864,14.<i>
+
