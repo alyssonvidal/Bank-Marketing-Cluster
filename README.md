@@ -4,20 +4,18 @@
 
 Os Bancos e outras intituições financeiras são hoje um dos setores que mais contratam cientistas de dados, devido a grande variedade de soluções propiciada por eles: segmentação de clientes, detecção de fraude, previsão de inadinplência, predição de churn, analises em tempo real, automação de processos de comunicação, etc. 
 
-Neste projeto será desenvolvido uma solução para o problema de segmentação de cliente de um Banco com base no perfil de uso do cartão de crédito, o objetivo é identificar esses clientes e com os resultados obtido sugerir um plano de ação.
+Neste projeto será desenvolvido uma solução para o problema de segmentação de cliente de um Banco com base no perfil de uso do cartão de crédito, o objetivo é identificar esses clientes e com os resultados obtido sugerir um plano de ação específico para cada agrupamento.
 
 O problema de segmentação de clientes em ciência de dados consiste na divisão dos clientes em grupos distintos que compartilham características semelhantes. Esses grupos, ou segmentos, são usados ​​para identificar oportunidades unicas, potenciais de marketing, desenvolvimento de produtos e atendimento personalizado. Ao entender as características únicas de cada segmento, o Banco pode direcionar melhor seus produtos e serviços para atender essas necessidades necessidades.
 Através de algoritmos inteligentes de Machine Learning, é possivel desenvolver soluções otimizadas, capazes de fazer agrupamentos ( conhecidos também como clusters) matemáticamente o mais distinto possivel, descobrir padrões ocultos na base de dados e automatatizar processos de forma robusta e escalável.
 
-A base de dados contém dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia, coletados num periodo de seis meses. Está disponivel no [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
+A base de dados contém dados referentes ao uso do cartão de crédito de 8950 clientes de uma determinada agencia bancária, coletados num periodo de seis meses. A base de dados original pode ser acessada diretamente pelo [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)<br><br>
 
 
 # Objetivo
 
-* O candidato deve desenvolver uma solução dentre o escopo de atuação do cientista de dados para o Estudo de Caso escolhido.
+* Desenvolver uma solução dentre o escopo de atuação do cientista de dados para o problema de segmentação de cliente.
 * Apresentar um possivel plano de ação com base nos resultados obtidos.<br><br>
-
-<i>Nota: O candidato será avaliado, principalmente pelo conhecimento de negócio, dominio das ferramentas de desenvolvimento Python/R, dominio das abordagens estatisticas e domínio em Machine Learning.</i><br><br>
 
 # Estágios de Desenvolvimento
 [**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
@@ -55,11 +53,11 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 
 <i> O lucro descrito refere-se apenas as operações com cartão de crédito (a vista e parcelado) a base de dados não possui informações suficientes para calcular o lucro referente ao paganmento do adiantamento em dinheiro.<br>
 
-Os clientes do Cluster "01" possuem saldo no cartão de crédito no entando não usam, de qualquer formas as taxas de anuidade, admistração, manutenção entre outras são cobradas, e são lucrativas para o Banco, que lucrou nesse periodo com esses clientes $33.381.864,14.</i>
+Os clientes do Cluster "01" possuem saldo no cartão de crédito no entando não usam, de qualquer forma as taxas de anuidade, admistração, manutenção entre outras são cobradas, e são lucrativas para o Banco, que lucrou nesse periodo com esses clientes $33.381.864,14.</i>
 
 ## Plano de Ação
 
-Cluster 00 - São clientes que compram pouco no cartão de crédito, mas quando compram optam pelo pagamento a vista. em baixa quantidade mas de valores mais elevados, possuem tendencia a se endividar. Um plano de ação do Banco poderia ser instruir esse clientes a usarem mais o cartão de crédito parcelado para evitar que se endividem num periodo de tempo curto.
+**Cluster 00 -** São clientes que compram pouco no cartão de crédito, mas quando compram optam pelo pagamento a vista. em baixa quantidade mas de valores mais elevados, possuem tendencia a se endividar. Um plano de ação do Banco poderia ser instruir esse clientes a usarem mais o cartão de crédito parcelado para evitar que se endividem num periodo de tempo curto.
 
 **Cluster 01 -**  São clientes possuem saldo no cartão de crédito mas não utilizam e optam pelo adiantamento em dinheiro. Essas pessoas talvez possuem alguns receios pelo fato das taxas de juros do cartão de crédito, serem maior do que as do adiantamento em dinheiro. Um plano de ação interessante seria iniciar um programa capaz de instruir, estimular e facilitar esses clientes a utilizarem o cartão de crédito, um programa capaz de oferecer suporte ao cliente para facilitar a compreensão das taxas, tarifas e outras obrigações associadas ao uso do cartão de crédito; oferecer opção de pagar suas contas de cartão de crédito online; alertas de pagamento para ajudar os clientes a lembrar de realizar seus pagamentos em tempo, etc.
 
