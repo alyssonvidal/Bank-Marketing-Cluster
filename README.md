@@ -51,4 +51,4 @@ Após o desenvolvimento do modelo de clusterização chegamos, numa solução ot
 
 <center><img src="/images/pie.png" alt="pie" width="512" height="411"/></center>
 
-<center><img src="/images/clusters.png" alt="clusters" width="1007" height="237"/></center>
+<center><img src="/images/clusters_table.png" alt="clusters" width="1007" height="237"/></center>
